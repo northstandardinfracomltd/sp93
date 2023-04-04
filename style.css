@@ -490,10 +490,15 @@ text-align: left !important;
     border-radius: 18px;
     color: #828282;
 font-size: 14px !important;
+      font-family: "Saoecom2font" !important;
+
 }
 
 .textpara {
-    line-break: 0px;
+    line-height: 40px !important;
+  margin-top: 4px;
+        font-family: "Saoecom2font" !important;
+
 }
 
 img.ineos341 {
