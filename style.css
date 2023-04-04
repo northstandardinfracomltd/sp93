@@ -4464,7 +4464,7 @@ max-width: 1300px !important;
 
 
 .col-right {
-  background-color: #212121 !important;
+  background-color: #ffffff !important;
   width: 100% !important;
   padding: 10px !important;
   border-left: 0px solid #3b3b3b;
@@ -4506,7 +4506,7 @@ height: 100vh !important;
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #212121 !important;
+  background-color: #ffffff !important;
   z-index: 999 !important;
   border-bottom: solid 0px #3b3b3b;
 }
@@ -4629,7 +4629,7 @@ letter-spacing: 1;
       font-size: 14px;
 letter-spacing: 1;
   border: solid 1px rgb(59 59 59) !important;
-      background-color: #212121 ;
+      background-color: #ffffff ;
   color: #fff;
 }
 
@@ -4643,7 +4643,7 @@ letter-spacing: 1;
       font-size: 14px;
 letter-spacing: 1;
   border: solid 1px rgb(59 59 59) !important;
-      background-color: #212121 ;
+      background-color: #ffffff ;
   color: #fff;
           outline: 4px solid #3b3b3b2e;
 }
@@ -4657,7 +4657,7 @@ letter-spacing: 1;
       font-size: 14px;
 letter-spacing: 1;
   border: solid 1px rgb(59 59 59) !important;
-      background-color: #212121 ;
+      background-color: #ffffff ;
   color: #fff;
           outline: 4px solid #008eff38;
 }
@@ -4755,7 +4755,7 @@ a:active { text-decoration: none; }
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #212121;
+  background-color: #ffffff;
   overflow-x: hidden;
   padding-top: 20px;
     padding-left: 12px;
