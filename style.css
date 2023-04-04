@@ -450,11 +450,11 @@ img.btnsub2-icon {
 
 
 .ineos34 {
-    padding-top: 18px !important;
-    padding-bottom: 18px !important;
-    padding-right: 25px !important;
-    padding-left: 25px !important;
-    font-size: 1.2rem !important;
+    padding-top: 14px !important;
+    padding-bottom: 14px !important;
+    padding-right: 29px !important;
+    padding-left: 20px !important;
+    font-size: 19px !important;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
     white-space: nowrap;
@@ -463,22 +463,24 @@ img.btnsub2-icon {
     -webkit-user-select: none;
     width: 88% !important;
     border-radius: 10px;
-    font-family: "Saoecom2font" !important;
+    font-family: "Saoecom2fontlight" !important;
     text-align: center !important;
     margin-left: 0px !important;
     margin-right: 0px !important;
-    background-color: #dc3136;
-    color: #ffffff !important;
-    border: 1px solid #dc3136;
+    background-color: #f9f9f9;
+    color: #2e2d37 !important;
+    border: 0px solid white;
   display: block !important;
-text-align: left !important;;
+text-align: left !important;
+  z-index: 4 !important;
 }
 
 
 img.ineos341 {
     padding-right: 8px;
-    width: 42px !important;
-    margin-top: -2px !important;
+    width: 32px !important;
+    margin-bottom: -5px !important;
+    margin-top: -2px;
 }
 
 
