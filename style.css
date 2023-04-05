@@ -485,14 +485,25 @@ text-align: left !important;
 }
 
 .textparalinks {
-    background-color: #f0f0f0;
-    padding: 10px;
-    border-radius: 18px;
-    color: #828282;
-font-size: 14px !important;
-      font-family: "Saoecom2font" !important;
-
+    background-color: #f0f0f0 !important;
+    padding-top: 8px !important;
+    border-radius: 18px !important;
+    color: #828282 !important;
+    font-size: 14px !important;
+    font-family: "Saoecom2font" !important;
+    padding-bottom: 8px !important;
+    padding-right: 11px !important;
+    padding-left: 11px !important;
+  margin-right: 3px;
 }
+
+.textparalinks:hover {
+    background-color: #dc3136 !important;
+    color: #ffffff !important;
+      font-family: "Saoecom2font" !important;
+outline: 4px solid #ff000021 !important;  
+}
+
 
 .textpara {
     line-height: 40px !important;
