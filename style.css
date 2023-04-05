@@ -534,14 +534,39 @@ img.ineos341 {
 .gridhome-item-2,
 .gridhome-item-3,
 .gridhome-item-4 {
-  background-color: #f2f2f2;
-  padding: 0px;
-  text-align: center;
+background-color: #ffffff;
+    padding: 0px;
+    text-align: center;
+    border-radius: 14px;
+    border: 1px solid #e1e1e3;
+}
+
+
+
+.gridhome-item-1:hover {
+outline: 4px solid #f0f0f0 !important;
+      cursor: pointer !important;
+}
+
+.gridhome-item-2:hover {
+outline: 4px solid #f0f0f0 !important;
+      cursor: pointer !important;
+}
+
+.gridhome-item-3:hover {
+outline: 4px solid #f0f0f0 !important;
+      cursor: pointer !important;
+}
+
+.gridhome-item-4:hover {
+outline: 4px solid #f0f0f0 !important;
+      cursor: pointer !important;
 }
 
 
 .ouioui {
   width: 100%;
+  border-radius: 13px 13px 0px 0px;
 }
 
 
@@ -552,21 +577,40 @@ img.ineos341 {
 }
 
 .gridhome-description {
-  font-size: 1rem;
-  margin-bottom: 10px;
+    font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+    line-height: 1.3 !important;
+    letter-spacing: 0.01em !important;
+    color: #221F20 !important;
+    text-align: center !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
 }
 
-.gridhome-button {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 1rem;
-  margin-top: 10px;
-  cursor: pointer;
+.gridhome-button  {
+    /* display: inline-block; */
+    /* white-space: nowrap; */
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    padding-right: 20px !important;
+    padding-left: 22px !important;
+    font-size: 1.2rem !important;
+    /* font-weight: var(--base-text-weight-medium, 500); */
+    line-height: 20px;
+    /* vertical-align: middle; */
+    cursor: pointer;
+    /* -webkit-user-select: none; */
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+    width: 89%;
+  margin-right:10px;
+  margin-left:10px;
+    margin-bottom: 25px;
 }
 
 .gridhome-button:hover {
