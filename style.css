@@ -5036,6 +5036,64 @@ display: none;
   padding-right: 30px;
 }
 
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+.main-home {
+  margin-left: 0px; /* Same as the width of the sidenav */
+    width: 100%;
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 0px;
+      margin-left: 0px;
+  height: 5250px;
+  padding-right: 0px;
+}  
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+.main-home {
+  margin-left: 0px; /* Same as the width of the sidenav */
+    width: 100%;
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 0px;
+      margin-left: 0px;
+  height: 5250px;
+  padding-right: 0px;
+}  
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+.main-home {
+  margin-left: 0px; /* Same as the width of the sidenav */
+    width: 100%;
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 0px;
+      margin-left: 0px;
+  height: 5250px;
+  padding-right: 0px;
+}    
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+.main-home {
+  margin-left: 0px; /* Same as the width of the sidenav */
+    width: 100%;
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 0px;
+      margin-left: 0px;
+  height: 5250px;
+  padding-right: 0px;
+}    
+}
+
+
+
+
 .main {
   margin-left: 290px; /* Same as the width of the sidenav */
     width: 80%;
