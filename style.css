@@ -538,6 +538,8 @@ img.ineos341 {
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, auto);
   gap: 20px;
+      margin-left: 22px;
+    margin-right: 22px;
 }
 
 .gridhome-item-1,
@@ -547,7 +549,7 @@ img.ineos341 {
 background-color: #ffffff;
     padding: 0px;
     text-align: center;
-    border-radius: 0px;
+    border-radius: 10px;
     border: 1px solid #e1e1e3;
 }
 
@@ -572,7 +574,7 @@ background-color: #ffffff;
 
 .ouioui {
   width: 100%;
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 9px 9px 0px 0px;
 }
 
 
@@ -636,8 +638,8 @@ padding-right: 24px !important;
     margin-left: 0px !important;
     padding-bottom: 0px !important;
     padding-top: 6px !important;
-    padding-right: 25px !important;
-    padding-left: 0px !important;
+padding-right: 45px !important;
+    padding-left: 21px !important;
 }
 
 .unesco-p {
@@ -4637,9 +4639,10 @@ a:hover {
   border-radius: 10px;
   padding: 0 !important;
   padding-top: 10px !important;
-  margin: 6px 10px 10px -123px !important;
+    margin: 6px 10px 10px -79px !important;
   background-color: #ffffff;
   list-style-type: none;
+  box-shadow: 0 12px 48px #1c21281f !important;
 }
 
 .dd-input + .dd-menu {
@@ -5029,7 +5032,7 @@ display: none;
   font-size: 28px; /* Increased text to enable scrolling */
   padding: 0px 10px;
       margin-left: 22%;
-  height: 5500px;
+  height: 5250px;
   padding-right: 30px;
 }
 
