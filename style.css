@@ -590,8 +590,8 @@ background-color: #ffffff;
     letter-spacing: 0.01em !important;
     color: #221F20 !important;
     text-align: left !important;
-    padding-right: 15px !important;
-    padding-left: 0px !important;
+padding-right: 24px !important;
+    padding-left: 24px !important;
 }
 
 .unesco-t {
@@ -608,6 +608,29 @@ background-color: #ffffff;
     padding-top: 6px !important;
     padding-right: 25px !important;
     padding-left: 0px !important;
+}
+
+.unesco-p {
+    font-size: 55px !important;
+    font-family: "Saoecom2font" !important;
+    line-height: 1.1 !important;
+    letter-spacing: 0.01em !important;
+    color: #c8c8c8 !important;
+    margin-bottom: -20px !important;
+    text-align: left !important;
+    margin-right: 3% !important;
+    margin-left: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 6px !important;
+    padding-right: 21px !important;
+    padding-left: 21px !important;
+}
+
+.omerta {
+    margin-left: 25px;
+    margin-right: 25px;
+  margin-top: -5px;
+  margin-bottom: 20px;
 }
 
 .gridhome-button  {
