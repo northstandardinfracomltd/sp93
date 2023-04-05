@@ -537,36 +537,32 @@ img.ineos341 {
 background-color: #ffffff;
     padding: 0px;
     text-align: center;
-    border-radius: 14px;
+    border-radius: 0px;
     border: 1px solid #e1e1e3;
 }
 
 
 
 .gridhome-item-1:hover {
-outline: 4px solid #f0f0f0 !important;
       cursor: pointer !important;
 }
 
 .gridhome-item-2:hover {
-outline: 4px solid #f0f0f0 !important;
       cursor: pointer !important;
 }
 
 .gridhome-item-3:hover {
-outline: 4px solid #f0f0f0 !important;
       cursor: pointer !important;
 }
 
 .gridhome-item-4:hover {
-outline: 4px solid #f0f0f0 !important;
       cursor: pointer !important;
 }
 
 
 .ouioui {
   width: 100%;
-  border-radius: 13px 13px 0px 0px;
+  border-radius: 0px 0px 0px 0px;
 }
 
 
@@ -585,6 +581,33 @@ outline: 4px solid #f0f0f0 !important;
     text-align: center !important;
     padding-right: 15px !important;
     padding-left: 15px !important;
+}
+
+.unesco {
+    font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+    line-height: 1.5 !important;
+    letter-spacing: 0.01em !important;
+    color: #221F20 !important;
+    text-align: left !important;
+    padding-right: 15px !important;
+    padding-left: 0px !important;
+}
+
+.unesco-t {
+    font-size: 55px !important;
+    font-family: "Saoecom2font" !important;
+    line-height: 1.1 !important;
+    letter-spacing: 0.01em !important;
+    color: #c8c8c8 !important;
+    margin-bottom: -50px !important;
+    text-align: left !important;
+    margin-right: 3% !important;
+    margin-left: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 6px !important;
+    padding-right: 25px !important;
+    padding-left: 0px !important;
 }
 
 .gridhome-button  {
@@ -4946,6 +4969,16 @@ display: none;
 
 
 
+
+.main-home {
+  margin-left: 290px; /* Same as the width of the sidenav */
+    width: 80%;
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+      margin-left: 22%;
+  height: 2500px;
+  padding-right: 30px;
+}
 
 .main {
   margin-left: 290px; /* Same as the width of the sidenav */
