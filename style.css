@@ -502,6 +502,7 @@ text-align: left !important;
     color: #ffffff !important;
       font-family: "Saoecom2font" !important;
 outline: 4px solid #ff000021 !important;  
+    transition: 0s;
 }
 
 
@@ -519,6 +520,60 @@ img.ineos341 {
     margin-top: -2px;
   margin-left: -5px;
 }
+
+
+
+.gridhome-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, auto);
+  gap: 20px;
+}
+
+.gridhome-item-1,
+.gridhome-item-2,
+.gridhome-item-3,
+.gridhome-item-4 {
+  background-color: #f2f2f2;
+  padding: 0px;
+  text-align: center;
+}
+
+
+.ouioui {
+  width: 100%;
+}
+
+
+
+.gridhome-title {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.gridhome-description {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.gridhome-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.gridhome-button:hover {
+  background-color: #3e8e41;
+}
+
+
 
 
 .btnsub000P3rayRT:hover {
@@ -4854,6 +4909,8 @@ display: none;
   font-size: 28px; /* Increased text to enable scrolling */
   padding: 0px 10px;
       margin-left: 22%;
+  height: 1300px;
+  padding-right: 30px;
 }
 
 
@@ -4872,3 +4929,6 @@ display: none;
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+
+
