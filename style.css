@@ -495,6 +495,7 @@ text-align: left !important;
     padding-right: 11px !important;
     padding-left: 11px !important;
   margin-right: 3px;
+  white-space: nowrap !important;
 }
 
 .textparalinks:hover {
@@ -532,6 +533,13 @@ img.ineos341 {
 }
 
 
+@media (min-width: 381px) and (max-width: 400px) {
+  
+.ermaos {
+    display: none !important;
+}
+  
+}
 
 .gridhome-container {
   display: grid;
