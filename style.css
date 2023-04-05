@@ -510,8 +510,18 @@ outline: 4px solid #ff000021 !important;
     line-height: 40px !important;
   margin-top: 4px;
         font-family: "Saoecom2font" !important;
-
+    margin-bottom: 2px;
 }
+
+
+.textpara2 {
+    line-height: 40px !important;
+  margin-top: 4px;
+        font-family: "Saoecom2font" !important;
+  margin-bottom: -15px;
+}
+
+
 
 img.ineos341 {
     padding-right: 8px;
@@ -592,6 +602,26 @@ background-color: #ffffff;
     text-align: left !important;
 padding-right: 24px !important;
     padding-left: 24px !important;
+}
+
+
+.unesco-client {
+    font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+    line-height: 1.5 !important;
+    letter-spacing: 0.01em !important;
+    color: #221F20 !important;
+    text-align: center !important;
+padding-right: 24px !important;
+    padding-left: 24px !important;
+}
+
+.clients-logos {
+    width: 72%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  padding-right: 20px;
 }
 
 .unesco-t {
@@ -4999,7 +5029,7 @@ display: none;
   font-size: 28px; /* Increased text to enable scrolling */
   padding: 0px 10px;
       margin-left: 22%;
-  height: 2500px;
+  height: 5500px;
   padding-right: 30px;
 }
 
