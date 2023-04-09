@@ -666,7 +666,7 @@ background-color: #ffffff;
 
 .ouioui {
   width: 100%;
-  border-radius: 9px 9px 0px 0px;
+  border-radius: 0px 0px 0px 0px;
 }
 
 
@@ -5280,4 +5280,55 @@ display: none;
     padding-top: 6px !important;
     padding-right: 15px !important;
     padding-left: 15px !important;
+}
+
+
+.termsbtn {
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: 0px !important;
+    margin-bottom: -25px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-style: dashed;
+    background-color: #fff;
+    color: #4463c0 !important;
+    border: 1px solid #fff;
+}
+
+.termsbtn:hover {
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: 0px !important;
+    margin-bottom: -25px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-style: dashed;
+    background-color: #fff;
+    color: #4463c0 !important;
+    border: 1px solid #fff;
 }
