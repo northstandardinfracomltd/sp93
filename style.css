@@ -5189,6 +5189,9 @@ display: none;
 
 
 
-.ineos-icon 
+.ineos-icon  {
+  width: 30px;
+  max-width: 30px;
+}
 
 
