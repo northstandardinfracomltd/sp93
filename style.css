@@ -5200,13 +5200,12 @@ display: none;
 
 
 .ineos-iconS  {
-    width: 90%;
-    margin-left: 25px;
-  margin-right: 25px;
-    margin-bottom: -10px;
-    margin-top: 22px;
-  border-radius: 12px;
-  opacity: 0.8;
+    width: 100%;
+    margin-bottom: 0px;
+    padding-top: 0x !important;
+      margin-top: 0x !important;
+  border-radius:0px;
+  opacity: 0.7;
 }
 
 
