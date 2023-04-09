@@ -5190,8 +5190,27 @@ display: none;
 
 
 .ineos-icon  {
-  width: 30px;
-  max-width: 30px;
+    width: 40px;
+    max-width: 40px;
+    margin-left: 25px;
+    margin-bottom: -10px;
+    margin-top: 22px;
 }
 
 
+
+.trumpboogie {
+    font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+    line-height: 1.3 !important;
+    letter-spacing: 0.01em !important;
+    color: #221F20 !important;
+    margin-bottom: 22px !important;
+    text-align: left !important;
+    margin-right: 3% !important;
+    margin-left: 2% !important;
+    padding-bottom: 11px !important;
+    padding-top: 6px !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
