@@ -783,8 +783,31 @@ padding-right: 45px !important;
     margin-bottom: 25px;
 }
 
-.gridhome-button:hover {
-  background-color: #3e8e41;
+
+.gridhome-button:hover  {
+    /* display: inline-block; */
+    /* white-space: nowrap; */
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    padding-right: 20px !important;
+    padding-left: 22px !important;
+    font-size: 1.2rem !important;
+    /* font-weight: var(--base-text-weight-medium, 500); */
+    line-height: 20px;
+    /* vertical-align: middle; */
+    cursor: pointer;
+    /* -webkit-user-select: none; */
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+    width: 89%;
+  margin-right:10px;
+  margin-left:10px;
+    margin-bottom: 25px;
 }
 
 
