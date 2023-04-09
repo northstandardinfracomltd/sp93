@@ -559,7 +559,7 @@ text-align: left !important;
     background-color: #dc3136 !important;
     color: #ffffff !important;
       font-family: "Saoecom2font" !important;
-outline: 4px solid #ff000021 !important;  
+  box-shadow: 0 0 0px 4px #ff000021 !important;
     transition: 0s;
 }
 
