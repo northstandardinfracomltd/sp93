@@ -711,10 +711,11 @@ padding-right: 24px !important;
 }
 
 .clients-logos {
-    width: 72%;
+    width: 90%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+  margin-top: -30px;
   padding-right: 20px;
 }
 
